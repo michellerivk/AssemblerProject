@@ -149,6 +149,3 @@ And may generate:
 ├── error_second_pass.*        # second-pass error cases
 
 └── first_pass_*_errors.*      # first-pass error cases (e.g., .as / .am variants)
-
-
-Note: *.o files are build artifacts and are usually ignored via .gitignore
